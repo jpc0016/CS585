@@ -23,6 +23,7 @@ Basic Notes
 
 ### Deck 11 - Intrusion Detection (NOV 7 & NOV 12)
 
+* Examples of violating policies that are not normal (17:40)?  One account has many login attempts.  Many logs coming from one system.
 * What are other examples of bypassing IDS?
 * Three methods of Intrusion detection:
     * threshold metrics
@@ -62,7 +63,7 @@ Basic Notes
 ### Deck 13.1 - Malicious Software (NOV 19 30:00 - 60:00 & NOV 21 0:00 - 30:00)
 
 * Which virus would be most difficult to detect (48:40 @ Virus Classifications slide)?  Stealth, TSR, and Encrypted viruses.
-* Difference between worms and viruses (51:10)?  Which parts are similar?  Both infect.  Virus can infect another file.  Worms are more focused on propagation between media such as operating systems.
+* Difference between worms and viruses (51:10)?  Which parts are similar?  Both infect.  Virus can infect another file.  Worms are more focused on propagation between media such as operating systems.  Unlike viruses, worms are standalone software and do not require host programs to propagate.
 * Social engineering victims are more likely to be victims again
 
 ### Deck 13.2 - Malicious Logic (NOV 21 30:00 - 63:00 & NOV 26 25:00)
