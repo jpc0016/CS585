@@ -59,6 +59,8 @@ Basic Notes
 * Can both Windows FAT and NTFS file systems implement Users administration and access controls (4:20)? [FAT does not.](https://www.sciencedirect.com/topics/computer-science/new-technology-file-system)
 * Encrypting File System (EFS) - 2 partitions: 1 to encrypt personal data
 * Virtualization: What security concerns exist for cloud computing (24:30)?  How to isolate data from someone else (26:10). Depends how secure remote administration is; should be considered in design of IDS and network firewalls. Administration traffic should use separate tightly-controlled network.
+* Native Virtualization is hardware assisted and does not contain a native OS before booting the Virtualization software (examples are VMWare ESXi/ESX, Hyper-V, Xen)
+* Hosted Virtualization contains an OS that hosts the hypervisor software (examples are VMWare Workstation, Virtual Box)
 
 ### Deck 13.1 - Malicious Software (NOV 19 30:00 - 60:00 & NOV 21 0:00 - 30:00)
 
