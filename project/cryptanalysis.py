@@ -1,5 +1,5 @@
-# John Cox
-# CS 585 - Project 1
+# John 
+# Project 1
 # cryptanalysis.py
 #
 # v2.1 Final

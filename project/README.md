@@ -14,7 +14,7 @@ Script 2 Task: Crack a ciphertext encrypted with the Vigenere cipher.  Program m
 ## Introduction
 The Vigenère cipher is like the Caeser cipher but uses a key phrase instead of a number.
 
-From `2.0 Cryptography.pdf`:
+From `Cryptography.pdf`:
 * Message: THE BOY HAS THE BALL
 * Key:      VIG
 
@@ -31,7 +31,7 @@ From `2.0 Cryptography.pdf`:
 ## Initial Requirements
 Taken from assignment page:
 
-CS 485/585 Project 1 (100 points)
+Project 1 (100 points)
 
 Implement the Vigènere cipher (Encryption and decryption).
 Write another program, which breaks the Vigènere cipher. Suppose that you know the period is 3.
