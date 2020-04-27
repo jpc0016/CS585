@@ -1,5 +1,5 @@
-# John Cox
-# CS 585 - Project 1
+# John
+# Project 1
 # vigenere-troubleshoot.py
 #
 # v1.5
